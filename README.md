@@ -8,3 +8,9 @@ June-2:
       75. Sort Colors
       121. Best Time to Buy and Sell Stock
       gfg -> Pairs with certain difference
+      -------------------------------------
+      #Oops - python
+      1.variables
+      2.methods
+      3.innerClass
+      
