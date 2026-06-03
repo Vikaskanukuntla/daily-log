@@ -16,4 +16,31 @@ June-2:
       --------------------------------------
       #OS
       topics coverd
-      
+
+june-3:
+      #Solved - DSA
+      Rotate matrix by 90 degress
+      Merge Overlapping Subintervals
+      Merge two sorted arrays without extra space
+      3635. Earliest Finish Time for Land and Water Rides II
+      Subarray Frequency Count Queries -gpt
+      ---------------------------------------
+      oops not yet seen
+      ------------------------------------------
+      #OS
+      Today's OS Topics:
+            1. Deadlock
+            2. Deadlock Conditions
+            3. Deadlock Handling Strategies
+            4. Resource Allocation Graph (RAG)
+            5. Memory Management
+            6. Paging
+            7. Page Fault
+            8. Page Replacement Algorithms
+               8.1 FIFO (First In First Out)
+               8.2 Optimal Page Replacement (OPR)
+               8.3 LRU (Least Recently Used)
+               8.4 MRU (Most Recently Used)
+            
+                  
+
