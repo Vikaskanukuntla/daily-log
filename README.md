@@ -1,5 +1,8 @@
 # daily-log
 
+<details>
+<summary>Click to View Daily Progress</summary>
+
 June-1  --->  Practised DSA , revised OOPS + OS and updated in github
 ------------------------------------------------------------------------------------
 June-2:
@@ -58,3 +61,4 @@ june-4:
       
                   
 
+</details>
