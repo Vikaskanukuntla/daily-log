@@ -1,6 +1,7 @@
 # daily-log
 
 June-1  --->  Practised DSA , revised OOPS + OS and updated in github
+------------------------------------------------------------------------------------
 June-2:
       #Solved - DSA
       3633. Earliest Finish Time for Land and Water Rides I
@@ -16,7 +17,7 @@ June-2:
       --------------------------------------
       #OS
       topics coverd
-
+------------------------------------------------------------------------------------
 june-3:
       #Solved - DSA
       Rotate matrix by 90 degress
@@ -40,7 +41,20 @@ june-3:
                8.1 FIFO (First In First Out)
                8.2 Optimal Page Replacement (OPR)
                8.3 LRU (Least Recently Used)
-               8.4 MRU (Most Recently Used)
-            
+               8.4 MRU (Most Recently Used
+------------------------------------------------------------------------------------
+june-4:
+      #Solved -DSA
+      striver - 3 prblms 45 Days challenge
+      leetcode QOTD
+      Gfg QOTD
+      ---------------------------------------
+      #Oops - python
+      topics covered ---> inheritance , poly , ducktype , operator-overloading
+      ---------------------------------------
+      # OS - null 🙁
+------------------------------------------------------------------------------------
+
+      
                   
 
