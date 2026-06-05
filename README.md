@@ -66,7 +66,41 @@ june-5:
       #Oops - python
       topics covered ---> Over-loading , ridding 
       ---------------------------------------
-      # OS - 
+      # OS 
+      Today's OS Topics:
+            1. Swapping
+            2. Memory Management
+            3. Contiguous Memory Allocation
+               3.1 Single Contiguous Memory Allocation
+               3.2 Partitioned Memory Allocation
+               3.3 Fixed Partition Allocation
+               3.4 Variable Partition Allocation
+            4. Non-Contiguous Memory Allocation
+               4.1 Paging
+               4.2 Segmentation
+               4.3 Segmentation with Paging
+            5. Virtual Memory
+            6. Demand Paging
+            7. Fragmentation
+               7.1 Internal Fragmentation
+               7.2 External Fragmentation
+            8. Thrashing
+            9. Memory Allocation Strategies
+               9.1 First Fit
+               9.2 Best Fit
+               9.3 Worst Fit
+               9.4 Next Fit
+            10. Linking
+                10.1 Static Linking
+                10.2 Dynamic Linking
+            11. Loading
+                11.1 Static Loading
+                11.2 Dynamic Loading
+            12. Logical Address
+            13. Physical Address
+            14. Logical Address Space
+            15. Physical Address Space
+            16. Binary Addresses in Memory Management
 ------------------------------------------------------------------------------------
 
 
