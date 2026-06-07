@@ -138,6 +138,13 @@ june-7:
                - Payment System Example (UPI, Card, NetBanking)
             4. MRO (Method Resolution Order)
             5. Diamond Problem
+      # OS 
+      Today's OS Topics: 
+            1. Page Table
+            2. Page table Entry
+            3. multi-level paging
+            4. inverted - paging
+            5. Belady's anomaly in page replacement algos
       --------------------------------------
             
                               
