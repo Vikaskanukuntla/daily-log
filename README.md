@@ -111,8 +111,35 @@ june-6:
       #Oops - null
       ---------------------------------------
       # OS - null 🙁
-      
-
-                  
+------------------------------------------------------------------------------------
+june-7:
+      #Solved -DSA
+      striver - 3 prblms 45 Days challenge
+      leetcode QOTD
+      Gfg QOTD
+      --------------------------------------
+      #Oops 
+      Today's OS Topics:
+            1. Polymorphism
+               - Duck Typing
+               - Operator Overloading
+            2. Encapsulation
+               - Public Variables
+               - Protected Variables
+               - Private Variables
+               - Name Mangling
+               - Getter & Setter
+               - @property (concept)
+            3. Abstraction
+               - ABC
+               - @abstractmethod
+               - Abstract Class
+               - Abstract Method
+               - Payment System Example (UPI, Card, NetBanking)
+            4. MRO (Method Resolution Order)
+            5. Diamond Problem
+      --------------------------------------
+            
+                              
 
 </details>
