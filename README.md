@@ -146,7 +146,14 @@ june-7:
             4. inverted - paging
             5. Belady's anomaly in page replacement algos
 ------------------------------------------------------------------------------------
-june-7:
+june-8:
+      #Solved -DSA
+      striver - 3 prblms 45 Days challenge
+      leetcode QOTD
+      Gfg QOTD
+      --------------------------------------
+------------------------------------------------------------------------------------
+june-9:
       #Solved -DSA
       striver - 3 prblms 45 Days challenge
       leetcode QOTD
