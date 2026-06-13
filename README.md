@@ -193,7 +193,23 @@ june-12:
       --------------------------------------
       # project started
 ------------------------------------------------------------------------------------
- 
+june-13:
+      #Solved -DSA
+      striver - 3 prblms 45 Days challenge
+      leetcode QOTD
+      Gfg QOTD
+      --------------------------------------
+      ## Computer Networks
+          - CN Introduction & Basics
+          - Network Components and Working
+          - Client-Server vs Peer-to-Peer
+          - Network Devices
+          - ISP & Modem
+          - PAN, LAN, CAN, MAN, WAN
+          - Broadcast vs Point-to-Point Networks
+          - Private, Public & Hybrid Networks
+          - Internetwork, Intranet & Extranet
+------------------------------------------------------------------------------------
             
                               
 
