@@ -271,6 +271,7 @@ june-19:
       cn - null
       --------------------------------------
       projects - worked on it
+      from tomorrow working on some crazy things
 ------------------------------------------------------------------------------------
       
             
