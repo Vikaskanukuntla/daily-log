@@ -273,6 +273,19 @@ june-19:
       projects - worked on it
       from tomorrow working on some crazy things
 ------------------------------------------------------------------------------------
+june-20:
+      #Solved -DSA
+      striver - 4 prblms 45 Days challenge
+      leetcode QOTD
+      Gfg QOTD
+      --------------------------------------
+      os - null
+      --------------------------------------
+      cn - null
+      --------------------------------------
+      projects - worked on it
+      from tomorrow working on some crazy things
+------------------------------------------------------------------------------------
       
             
                               
