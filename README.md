@@ -309,8 +309,8 @@ june-22:
       --------------------------------------
       cn - null
       --------------------------------------
-      projects - worked on it
-      from tomorrow working on some crazy things
+      project - done
+      deploy pending
 ------------------------------------------------------------------------------------
       
             
