@@ -1,4 +1,4 @@
-# daily-log
+sfv# daily-log
 
 <details>
 <summary>Click to View Daily Progress</summary>
@@ -300,6 +300,21 @@ june-21:
       from tomorrow working on some crazy things
 ------------------------------------------------------------------------------------
 june-22:
+      #Solved -DSA
+      striver - 4 prblms 45 Days challenge
+      leetcode QOTD
+      Gfg QOTD
+      --------------------------------------
+      os - null
+      --------------------------------------
+      cn - null
+      --------------------------------------
+      project - done
+      deploy pending
+      --------------------------------------
+      sql - revision
+------------------------------------------------------------------------------------
+june-23:
       #Solved -DSA
       striver - 4 prblms 45 Days challenge
       leetcode QOTD
