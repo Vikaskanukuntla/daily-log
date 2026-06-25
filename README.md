@@ -321,8 +321,18 @@ june-23:
       Gfg QOTD
       --------------------------------------
 -----------------------------------------------------------------------------------
-
 june-24:
+      #Solved -DSA
+      striver - 3 prblms 45 Days challenge
+      leetcode QOTD
+      Gfg QOTD
+      --------------------------------------
+      project - done
+      deploy pending
+      --------------------------------------
+      sql - revision
+-----------------------------------------------------------------------------------
+june-25:
       #Solved -DSA
       striver - 3 prblms 45 Days challenge
       leetcode QOTD
