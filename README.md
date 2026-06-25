@@ -338,10 +338,10 @@ june-25:
       leetcode QOTD
       Gfg QOTD
       --------------------------------------
-      project - done
-      deploy pending
+      project - null
+      deploy pending null
       --------------------------------------
-      sql - revision
+      sql - null
 -----------------------------------------------------------------------------------
 
 </details>
