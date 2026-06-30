@@ -366,7 +366,7 @@ june-28:
       sql - seen
       tmrw - fresh restart     
 -----------------------------------------------------------------------------------
-june-20:
+june-30:
       #Solved -DSA
       striver - 3 prblms 45 Days challenge
       leetcode QOTD
