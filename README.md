@@ -383,9 +383,6 @@ july -1 :
       striver - 3 prblms 45 Days challenge
       leetcode QOTD
       Gfg QOTD
-      ------------------------------------
-      project - null
-      deploy pending null
       -------------------------------------
       sql - seen
       tmrw - fresh restart     
