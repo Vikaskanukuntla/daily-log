@@ -378,5 +378,17 @@ june-30:
       sql - seen
       tmrw - fresh restart     
 -----------------------------------------------------------------------------------
+july -1 :
+      #Solved -DSA
+      striver - 3 prblms 45 Days challenge
+      leetcode QOTD
+      Gfg QOTD
+      ------------------------------------
+      project - null
+      deploy pending null
+      -------------------------------------
+      sql - seen
+      tmrw - fresh restart     
+-----------------------------------------------------------------------------------
 
 </details>
