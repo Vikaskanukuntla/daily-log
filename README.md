@@ -408,7 +408,11 @@ july - 7:
       #os - null  
       #dsa solved
       project discussed
-      
 -----------------------------------------------------------------------------------
-
+july - 9:
+      #sql - did somewhat
+      #os - null  
+      #dsa solved
+      project discussed
+-----------------------------------------------------------------------------------
 </details>
