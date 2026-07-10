@@ -419,7 +419,7 @@ july - 10:
       #sql - did somewhat
       #os - null  
       #dsa solved
-      project discussed
+      project discussed 
 -----------------------------------------------------------------------------------
 
 
