@@ -8,7 +8,7 @@ June-1  --->  Practised DSA , revised OOPS + OS and updated in github
 June-2:
       #Solved - DSA
       3633. Earliest Finish Time for Land and Water Rides I
-      53. Maximum Subarray 
+      53. Maximum Subarray  
       75. Sort Colors  
       121. Best Time to Buy and Sell Stock
       gfg -> Pairs with certain difference 
@@ -459,6 +459,11 @@ july - 21:
       started - tuf sheet revision
 -----------------------------------------------------------------------------------
 july - 22:
+      #done with dsa
+      started - tuf sheet revision
+      pandas done     
+-----------------------------------------------------------------------------------
+july - 23:
       #done with dsa
       started - tuf sheet revision
       pandas done
