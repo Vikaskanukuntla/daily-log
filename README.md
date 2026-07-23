@@ -9,7 +9,7 @@ June-2:
       #Solved - DSA
       3633. Earliest Finish Time for Land and Water Rides I
       53. Maximum Subarray 
-      75. Sort Colors 
+      75. Sort Colors  
       121. Best Time to Buy and Sell Stock
       gfg -> Pairs with certain difference
       -----------------------------------
