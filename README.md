@@ -11,7 +11,7 @@ June-2:
       53. Maximum Subarray 
       75. Sort Colors  
       121. Best Time to Buy and Sell Stock
-      gfg -> Pairs with certain difference
+      gfg -> Pairs with certain difference 
       -----------------------------------
       #Oops - python
       1.variables
