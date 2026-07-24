@@ -13,7 +13,7 @@ June-2:
       121. Best Time to Buy and Sell Stock
       gfg -> Pairs with certain difference 
       -----------------------------------
-      #Oops - python
+      #Oops - python 
       1.variables
       2.methods
       3.innerClass
