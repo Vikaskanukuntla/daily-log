@@ -467,7 +467,11 @@ july - 23:
       #done with dsa
       started - tuf sheet revision
       pandas done
-      
+-----------------------------------------------------------------------------------
+july - 24:
+      #done with dsa
+      started - tuf sheet revision
+      pandas done
 -----------------------------------------------------------------------------------
   
 
