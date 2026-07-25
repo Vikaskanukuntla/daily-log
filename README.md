@@ -478,7 +478,6 @@ july - 25:
       #done with dsa 
       started - tuf sheet revision - paused
       leetcode 
-      gfg
       data - null
 -----------------------------------------------------------------------------------
   
