@@ -489,8 +489,6 @@ july - 26:
 july - 29:
       #done with dsa 
       started - tuf sheet revision - paused
-      leetcode 
-      gfg
 -----------------------------------------------------------------------------------
   
 
