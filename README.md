@@ -500,7 +500,6 @@ july - 30:
 july - 31:
       #done with dsa 
       started - tuf sheet revision - paused
-      infosys
       si - revision
 -----------------------------------------------------------------------------------
   
