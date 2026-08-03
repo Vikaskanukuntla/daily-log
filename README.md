@@ -511,6 +511,14 @@ july - 2:
       participated in contest coding
 -----------------------------------------------------------------------------------
   
+july - 3:
+      #done with dsa 
+      started - tuf sheet revision - paused
+      si - revision
+      youtube - project learning
+      participated in contest coding
+-----------------------------------------------------------------------------------
+  
 
 
 
