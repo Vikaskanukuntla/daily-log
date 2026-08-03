@@ -515,8 +515,6 @@ july - 3:
       #done with dsa 
       started - tuf sheet revision - paused
       si - revision
-      youtube - project learning
-      participated in contest coding
 -----------------------------------------------------------------------------------
   
 
