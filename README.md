@@ -526,10 +526,6 @@ july - 4:
   
 july - 5:
       #done with dsa 
-      started - tuf sheet revision - paused
-      si - revision
-      sql
-      mern
 -----------------------------------------------------------------------------------
   
 
