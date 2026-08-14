@@ -542,6 +542,7 @@ july - 14:
       #sql
       #english
       #started dp series
+      # infosys shortlisted
 -----------------------------------------------------------------------------------
   
 
